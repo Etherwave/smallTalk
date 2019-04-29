@@ -1,0 +1,10 @@
+D:\CsharpDev\smallTalk\smallTalk\bin\Debug\smallTalk.exe.config
+D:\CsharpDev\smallTalk\smallTalk\bin\Debug\smallTalk.exe
+D:\CsharpDev\smallTalk\smallTalk\bin\Debug\smallTalk.pdb
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.csprojAssemblyReference.cache
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.Form1.resources
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.Properties.Resources.resources
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.csproj.GenerateResource.cache
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.csproj.CoreCompileInputs.cache
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.exe
+D:\CsharpDev\smallTalk\smallTalk\obj\Debug\smallTalk.pdb
