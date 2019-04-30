@@ -30,7 +30,7 @@ namespace smallTalk
         private void Form1_Load(object sender, EventArgs e)
         {
             this.textBox_Name.Text = "Bob";
-            timer1.Interval = 5000;//毫秒为单位
+            timer1.Interval = 500;//毫秒为单位
             timer1.Enabled = true;
             lastInfoTime = "";
             Init();
@@ -127,10 +127,13 @@ namespace smallTalk
             }
         }
 
+        public delegate void work();
         private void Timer1_Tick(object sender, EventArgs e)
         {
+            Invoke(new work(this.Search));
             //Thread thread = new Thread(this.Search);
-            Search();
+            //thread.Start();
+            //Search();
         }
     }
 }
